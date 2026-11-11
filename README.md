@@ -1,6 +1,6 @@
 # FTIR Evaluation
 
-Python-based FTIR analysis pipeline for protein secondary-structure characterization, developed for α-synuclein experiments.
+Python-based FTIR analysis pipeline for protein secondary-structure characterization.
 
 ## Features
 
